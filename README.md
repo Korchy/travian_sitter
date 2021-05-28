@@ -1,2 +1,3 @@
-# travian_sitter
-Travian sitter
+# Travian sitter
+
+Game automation
